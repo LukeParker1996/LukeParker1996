@@ -7,4 +7,4 @@ The purpose of this file is to show the products that have a price higher than 2
 
 File "MyHTML" is my very first HTML code ever created. 
 
-The network design file is a diagram of network topology. The topology consists of 3 computers on one side that send information into a switch. The switch then can send packets to the router. This format is mirrored on the opposite side. The router can then send those packets to the printer.
+The network design file is a diagram of network topology. This infrastructure topology consists of 3 computers on one side that send information into a switch. The switch then can send packets to the router. This format is mirrored on the opposite side. The router can then send those packets to the printer. I chose the infrasctructure model because it is a common one used in businesses.
