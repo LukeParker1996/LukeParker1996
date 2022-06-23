@@ -4,5 +4,7 @@ The purpise of this file is to show  all the products available listed by price 
 
 Second file is named SQLProductGT25.
 The purpose of this file is to show the products that have a price higher than 25. It then sorts it by price in ascending order.
+
 File "MyHTML" is my very first HTML code ever created. 
+
 The network design file is a diagram of network topology. The topology consists of 3 computers on one side that send information into a switch. The switch then can send packets to the router. This format is mirrored on the opposite side. The router can then send those packets to the printer.
